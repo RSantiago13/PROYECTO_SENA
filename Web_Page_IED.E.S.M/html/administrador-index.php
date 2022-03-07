@@ -26,7 +26,12 @@
 <body>
 
     <?PHP include "./header.php" ?>
+<<<<<<< HEAD
     
+=======
+
+    <center>
+>>>>>>> a2173066b076b018f6d4f399458b9fd9c2b8bbf8
         <main class="cuerpo-admi">
             <nav>
                 <ul>
@@ -34,6 +39,7 @@
                     <a href="./verDatosUsuario.php">
                         <li><strong>Modificas</strong></li>
                     </a>
+<<<<<<< HEAD
                     <a href="#">
                         <li><strong>Habilita el Sistema </strong></li>
                     </a>
@@ -41,6 +47,13 @@
             </nav>
         </main>
     
+=======
+                </ul>
+            </nav>
+        </main>
+    </center>
+
+>>>>>>> a2173066b076b018f6d4f399458b9fd9c2b8bbf8
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"> </script>
     <script src="../js/menu.js"></script>
 </body>
